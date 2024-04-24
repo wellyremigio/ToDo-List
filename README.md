@@ -6,7 +6,7 @@ Além disso, uma tarefa pode ser marcada como feita.
 ### iPhone
 Tela Inicial
 <p align = "center">
-  <img width="250" src = "ToDoProgram/to_readme/iPhone-tela inicial.png">
+  <img width="300" src = "ToDoProgram/to_readme/iPhone-tela inicial.png">
 </p>
 
 Tarefas adicionadas e feitas
@@ -22,12 +22,12 @@ Editando uma tarefa
 ### Macbook
 Tela Inicial
 <p align = "center">
-  <img width="700" src = "ToDoProgram/to_readme/Macbook-tela inicial.png">
+  <img width="900" src = "ToDoProgram/to_readme/Macbook-tela inicial.png">
 </p>
 
 Tarefas adicionadas e feitas
 <p align = "center">
-  <img width="800" src = "ToDoProgram/to_readme/Macbook-add task.png">
+  <img width="900" src = "ToDoProgram/to_readme/Macbook-add task.png">
 </p>
 
 Editando uma tarefa
