@@ -22,17 +22,17 @@ Editando uma tarefa
 ### Macbook
 Tela Inicial
 <p align = "center">
-  <img width="600" src = "ToDoProgram/to_readme/Macbook-tela inicial.png">
+  <img width="700" src = "ToDoProgram/to_readme/Macbook-tela inicial.png">
 </p>
 
 Tarefas adicionadas e feitas
 <p align = "center">
-  <img width="500" src = "ToDoProgram/to_readme/Macbook-add task.png">
+  <img width="800" src = "ToDoProgram/to_readme/Macbook-add task.png">
 </p>
 
 Editando uma tarefa
 <p align = "center">
-  <img width="400" src = "ToDoProgram/to_readme/Macbook-edit task.png">
+  <img width="900" src = "ToDoProgram/to_readme/Macbook-edit task.png">
 </p>
 
 
