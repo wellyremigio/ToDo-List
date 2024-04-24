@@ -19,5 +19,20 @@ Editando uma tarefa
   <img width="250" src = "ToDoProgram/to_readme/iPhone-edit task.png">
 </p>
 
+### Macbook
+Tela Inicial
+<p align = "center">
+  <img width="600" src = "ToDoProgram/to_readme/Macbook-tela inicial.png">
+</p>
+
+Tarefas adicionadas e feitas
+<p align = "center">
+  <img width="500" src = "ToDoProgram/to_readme/Macbook-add task.png">
+</p>
+
+Editando uma tarefa
+<p align = "center">
+  <img width="400" src = "ToDoProgram/to_readme/Macbook-edit task.png">
+</p>
 
 
