@@ -11,12 +11,12 @@ Tela Inicial
 
 Tarefas adicionadas e feitas
 <p align = "center">
-  <img width="250" src = "ToDoProgram/to_readme/iPhone-add task.png">
+  <img width="300" src = "ToDoProgram/to_readme/iPhone-add task.png">
 </p>
 
 Editando uma tarefa
 <p align = "center">
-  <img width="250" src = "ToDoProgram/to_readme/iPhone-edit task.png">
+  <img width="300" src = "ToDoProgram/to_readme/iPhone-edit task.png">
 </p>
 
 ### Macbook
@@ -34,5 +34,3 @@ Editando uma tarefa
 <p align = "center">
   <img width="900" src = "ToDoProgram/to_readme/Macbook-edit task.png">
 </p>
-
-
